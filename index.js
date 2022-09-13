@@ -2,7 +2,7 @@ const {Client, MessageEmbed} = require('discord.js');
 const bot = new Client();
 
 
-const token = 'Njk5MjQwNjU0NzE4NTAwOTQ0.XpRhSA.t5tGZaPHzkn0uNuOQNnKf1Ee0DY';
+const token = 'YOUR TOKEN HERE';
 
 const PREFIX = '§';
 
